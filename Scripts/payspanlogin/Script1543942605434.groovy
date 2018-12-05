@@ -24,5 +24,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/payspanlogin/Page_Log I
 
 WebUI.click(findTestObject('Object Repository/payspanlogin/Page_Log In - Confluence/input_Remember me_login'))
 
-WebUI.closeBrowser()
-

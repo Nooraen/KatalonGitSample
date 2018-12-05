@@ -17,5 +17,3 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://qa1appl1/Jms/login.aspx?ReturnUrl=%2fJms%2findex.aspx')
 
-WebUI.closeBrowser()
-
